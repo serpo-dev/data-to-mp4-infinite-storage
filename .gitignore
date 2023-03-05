@@ -1,0 +1,6 @@
+/video.mp4
+/input/*
+/output/*
+/cache/*
+
+/node_modules

@@ -1,0 +1,6 @@
+width=1920
+height=1080
+binSize=2
+
+INPUT=./input/test.txt
+OUTPUT=./output/test.mkv
